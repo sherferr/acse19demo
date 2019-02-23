@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Modified at the ACSE conference.
+ * Just for kicks!
  */
 package u1a2a3incometax;
 
